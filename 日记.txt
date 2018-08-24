@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 # -*- coding:utf-8 -*-
 今天x月x日，我吃了一个苹果
-
+今天x月y日，我吃了一个梨
